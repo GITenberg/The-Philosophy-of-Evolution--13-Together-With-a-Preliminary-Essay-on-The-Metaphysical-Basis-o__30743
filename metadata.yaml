@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34790'
     url: http://www.gutenberg.org/2009/agents/34790
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30743#The-Philosophy-of-Evolution--13-Together-With-a-Preliminary-Essay-on-The-Metaphysical-Basis-o_
 gutenberg_issued: '2009-12-23'
 gutenberg_type: Text
 identifiers:
